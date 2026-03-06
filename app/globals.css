@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+/* 기본 폰트/렌더링 품질 */
+body {
+  text-rendering: optimizeLegibility;
+}
